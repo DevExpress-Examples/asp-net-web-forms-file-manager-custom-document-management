@@ -10,7 +10,7 @@ This example demonstrates how to open documents of different types in an apropri
 
 ## Implementation Details
 
-The [SelectedFileOpened](https://docs.devexpress.com/AspNet/js-ASPxClientFileManager.SelectedFileOpened) event handler initiates a collback of the [ASPxPopupControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl) component. On the server, the [WindowCallback](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControlBase.WindowCallback) event handler dynamically creates a component apropriate for the opened file. Note that once you have modified the control hierarchy, it is necessary to restore the created control with the same settings during the `Page_Init` stage.
+The [ASPxClientFileManager.SelectedFileOpened](https://docs.devexpress.com/AspNet/js-ASPxClientFileManager.SelectedFileOpened) event handler initiates a callback of the [ASPxPopupControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl) component. On the server, the [WindowCallback](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControlBase.WindowCallback) event handler dynamically creates a component apropriate for the opened file. Note that once you have modified the control hierarchy, it is necessary to restore the created control with the same settings during the `Page_Init` stage.
 
 ## Files to Review
 
