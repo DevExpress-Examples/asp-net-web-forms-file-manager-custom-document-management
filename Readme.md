@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# File Manager for ASP.NET Web Forms - How to implement a custom document management for different document types
+# File Manager for ASP.NET Web Forms - How to implement custom document management for different document types
 
 This example demonstrates how to open documents of different types in an apropriate component within a pop-up window. 
 
