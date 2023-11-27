@@ -24,5 +24,5 @@ The [ASPxClientFileManager.SelectedFileOpened](https://docs.devexpress.com/AspNe
 
 ## More Examples
 
-* [File Manager for ASP.NET Web Forms - How to open a selected text or spreadsheet file](https://github.com/DevExpress-Examples/asp-net-web-forms-file-manager-open-office-documents)
+* [File Manager for ASP.NET Web Forms - How to open a selected text or spreadsheet file](https://github.com/DevExpress-Examples/asp-net-web-forms-file-manager-open-text-or-spreadsheet-file)
 * [How to create ASP.NET Web Forms controls dynamically](https://github.com/DevExpress-Examples/asp-net-web-forms-create-controls-dynamically)
